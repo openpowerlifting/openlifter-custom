@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/releases/gpc-nz/precache-manifest.6f5ba1b2352e512561f387f016c03fbd.js"
+  "/releases/gpc-nz/precache-manifest.d9d9dec6e24f5e8d6ebfc3a02ad2abfd.js"
 );
 
 workbox.clientsClaim();
