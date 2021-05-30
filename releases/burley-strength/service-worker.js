@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/releases/burley-strength/precache-manifest.1832dd19d2f4c0877b242e218058d085.js"
+  "/releases/burley-strength/precache-manifest.118d616428d184031bfeefd960f29329.js"
 );
 
 workbox.clientsClaim();
