@@ -1,17 +1,17 @@
 {
   "main.css": "/releases/burley-strength/static/css/main.f13d3b29.chunk.css",
-  "main.js": "/releases/burley-strength/static/js/main.02ccb319.chunk.js",
-  "main.js.map": "/releases/burley-strength/static/js/main.02ccb319.chunk.js.map",
+  "main.js": "/releases/burley-strength/static/js/main.3c88590d.chunk.js",
+  "main.js.map": "/releases/burley-strength/static/js/main.3c88590d.chunk.js.map",
   "static/css/1.9cb9e42e.chunk.css": "/releases/burley-strength/static/css/1.9cb9e42e.chunk.css",
-  "static/js/1.b85de287.chunk.js": "/releases/burley-strength/static/js/1.b85de287.chunk.js",
-  "static/js/1.b85de287.chunk.js.map": "/releases/burley-strength/static/js/1.b85de287.chunk.js.map",
+  "static/js/1.e046c77c.chunk.js": "/releases/burley-strength/static/js/1.e046c77c.chunk.js",
+  "static/js/1.e046c77c.chunk.js.map": "/releases/burley-strength/static/js/1.e046c77c.chunk.js.map",
   "runtime~main.js": "/releases/burley-strength/static/js/runtime~main.385e97fc.js",
   "runtime~main.js.map": "/releases/burley-strength/static/js/runtime~main.385e97fc.js.map",
   "static/media/burley-horizontal-padded.png": "/releases/burley-strength/static/media/burley-horizontal-padded.225cbe2d.png",
   "static/media/burley-horizontal.png": "/releases/burley-strength/static/media/burley-horizontal.16fb8024.png",
-  "static/css/main.f13d3b29.chunk.css.map": "/releases/burley-strength/static/css/main.f13d3b29.chunk.css.map",
   "static/css/1.9cb9e42e.chunk.css.map": "/releases/burley-strength/static/css/1.9cb9e42e.chunk.css.map",
+  "static/css/main.f13d3b29.chunk.css.map": "/releases/burley-strength/static/css/main.f13d3b29.chunk.css.map",
   "index.html": "/releases/burley-strength/index.html",
-  "precache-manifest.118d616428d184031bfeefd960f29329.js": "/releases/burley-strength/precache-manifest.118d616428d184031bfeefd960f29329.js",
+  "precache-manifest.ff64f2908070e78d3648aa429aad5b33.js": "/releases/burley-strength/precache-manifest.ff64f2908070e78d3648aa429aad5b33.js",
   "service-worker.js": "/releases/burley-strength/service-worker.js"
 }
